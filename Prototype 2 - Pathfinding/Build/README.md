@@ -1,5 +1,5 @@
 This folder only contains a windows installer.
 
-Just download the installer and launch it. 
+1. Just download the installer and launch it. 
 
-Follow the installer's steps.
+2. Follow the installer's steps.
