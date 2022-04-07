@@ -10,4 +10,4 @@ Each prototype folder contains:
 
 - **/Sources**: The raw C# source code
 - **/Build**: The necessary component to build and test the game
-  - README.md: containing the build instructions
+  - **README.md**: Build instructions
